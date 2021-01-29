@@ -1,0 +1,10 @@
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\Questao9e10.deps.json
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\Questao9e10.runtimeconfig.json
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\Questao9e10.runtimeconfig.dev.json
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\Questao9e10.dll
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\Questao9e10.pdb
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\Questao9e10.csproj.CoreCompileInputs.cache
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\Questao9e10.AssemblyInfoInputs.cache
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\Questao9e10.AssemblyInfo.cs
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\Questao9e10.dll
+C:\Users\Programador01\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\Questao9e10.pdb
